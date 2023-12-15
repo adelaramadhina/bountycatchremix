@@ -11,8 +11,8 @@ This repository contains *my remix* of Jason Haddix's  [`bountycatch.py`](https:
 
 - Save subdomains into a database from text files.
 - Eliminate duplicate subdomain entries.
-- Count the number of unique subdomains.
-- Delete a specific subdomain entry.
+- Count the number of unique subdomains from a project.
+- Delete a project domain entry.
 
 ## Prerequisites
 

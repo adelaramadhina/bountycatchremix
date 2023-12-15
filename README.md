@@ -1,6 +1,8 @@
 # Dela's Bountycatch.py remix 🎀
 
 This repository contains *my remix* of Jason Haddix's  [`bountycatch.py`](https://gist.github.com/jhaddix/91035a01168902e8130a8e1bb383ae1e) script. The original script was simple and easier to manage, and I just added my own twist so it could do other commands I need 🧸.
+
+
 (Note: courtesy of this script goes to Jason Haddix. I just added some features that I wanted there ❤️)
 
 ## Overview

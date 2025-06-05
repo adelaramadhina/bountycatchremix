@@ -1,0 +1,12 @@
+{
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0,
+    "max_connections": 10
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}
